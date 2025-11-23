@@ -19,7 +19,7 @@
 <h3 align="center">
   <span style="color:#FF2DF7">Frontend Developer</span> • 
   <span style="color:#2DDEFF">Web Developer</span> • 
-  <span style="color:#A5FF2D">CSE (Gaming Tech)</span>
+  <span style="color:#A5FF2D">CSE Student</span>
 </h3>
 
 <p align="center">
