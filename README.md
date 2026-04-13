@@ -42,7 +42,7 @@
 ```yaml
 name: "Sandipan Nayek"
 location: "India, IN"
-education: "B.Tech CSE (Gaming Technology) @ VIT Bhopal"
+education: "B.Tech CSE @ VIT Bhopal"
 roles:
   - "Frontend Developer"
   - "Web Developer"
@@ -97,7 +97,7 @@ $ whoami
 > sandipan_nayek
 
 $ roles
-> "Frontend Developer" "Web Developer" "CSE (Gaming Tech) Student"
+> "Frontend Developer" "Web Developer" "CSE Student"
 
 $ now_playing
 > Crafting neon-lit UI, smooth animations & responsive layouts
