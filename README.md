@@ -137,10 +137,10 @@ $ next_mission
 <p align="center">
   <img src="https://github.com/user-attachments/assets/07fcbf5b-d808-42c0-957b-ca62bb1f90c7"  width="900" />
 </p>
->
+
 ## 👁️ Visitor Count
 <p align="left">
   <img src="https://camo.githubusercontent.com/4c56a4d6d08bf2d0433678588a38420a8d57e6c46578659aee6a14830009a848/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d647264656164302e6472646561643026" />
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=A5FF2D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+cyberpunk+space+%F0%9F%94%A5;Star+some+repos+if+you+like+my+work+%F0%9F%8C%9F" /> </p> 
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=A5FF2D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+cyberpunk+space+%F0%9F%94%A5;/> </p> 
