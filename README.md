@@ -1,4 +1,3 @@
-
 <!-- CYBERPUNK NEON PROFILE FOR: Sandipan Nayek -->
 
 <!-- Typing SVG Header -->
@@ -56,21 +55,44 @@ current_focus: "Building aesthetic, interactive web experiences"
 vibe: "Cyberpunk, neon, clean but playful"
 philosophy: "Build. Break. Glow. Repeat — with self-love."
 ```
-🧠 Tech Stack – Neon Grid
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,threejs,cs,cpp,python,java,mongodb,mysql,git,github,figma,blender,vscode&theme=light" /> </p>
-⚡ Cyber Stats Hub
-<div align="center"> <!-- Contributions + Streak --> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SanDYxOP&theme=neon-dark&ring=FF2DF7&fire=FF2DF7&currStreakLabel=2DDEFF&hide_border=true" />
+## 🧠 Tech Stack – Neon Grid
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,threejs,cs,cpp,python,java,mongodb,mysql,git,github,figma,blender,vscode&theme=light" />
+</p>
 
-<!-- Core Stats + Languages --> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanDYxOP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2DF7&icon_color=2DDEFF" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanDYxOP&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2DF7" /> </div>
-🏆 Neon Trophy Wall
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SanDYxOP&theme=radical&no-frame=true&margin-w=10&row=1" /> </p>
-📈 Holographic Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanDYxOP&theme=react-dark&bg_color=0D1117&color=2DDEFF&line=FF2DF7&point=A5FF2D&hide_border=true&area=true&custom_title=Sandipan%20Nayek's%20Cyber%20Activity%20Grid" /> </p>
+## ⚡ Cyber Stats Hub
+
+<div align="center">
+
+  <!-- Streak full width -->
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SandipanNayek1916&theme=neon-dark&ring=FF2DF7&fire=FF2DF7&currStreakLabel=2DDEFF&sideLabels=A5FF2D&dates=FFFFFF&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+  <br/><br/>
+
+  <!-- GitHub Profile Summary Cards -->
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandipanNayek1916&theme=radical" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandipanNayek1916&theme=radical&utcOffset=5.5" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandipanNayek1916&theme=radical" />
+
+</div>
+
+## 🏆 Neon Trophy Wall
+
+<p align="center">
+  <img src="https://git-jadugar-trophies.vercel.app/api/panels?username=SandipanNayek1916&theme=vampire&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+## 📈 Holographic Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandipanNayek1916&theme=react-dark&bg_color=0D1117&color=2DDEFF&line=FF2DF7&point=A5FF2D&hide_border=true&area=true&custom_title=Sandipan%20Nayek's%20Cyber%20Activity%20Grid" />
+</p>
 
 
-🎮 Cyberpunk Terminal
+## 🎮 Cyberpunk Terminal
+
+```bash
 $ whoami
 > sandipan_nayek
 
@@ -82,10 +104,23 @@ $ now_playing
 
 $ next_mission
 > Deploy more interactive projects and level up my web dev game
+```
 
-🔗 Neon Social Dock
-<p align="center"> <a href="https://www.instagram.com/_sandi.pan_?igsh=aGV4dnNqd3k0Zmhw&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-FF2DF7?style=for-the-badge&logo=instagram&logoColor=ffffff" /> </a> <a href="mailto:nayek.sandipan1916@gmail.com"> <img src="https://img.shields.io/badge/Gmail-2DDEFF?style=for-the-badge&logo=gmail&logoColor=ffffff" /> </a> <a href="https://github.com/SanDYxOP"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" /> </a> </p>
-🧩 Featured Skills (Frontend Side-Quests)
+## 🔗 Neon Social Dock
+
+<p align="center">
+  <a href="https://www.instagram.com/_sandi.pan_?igsh=aGV4dnNqd3k0Zmhw&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-FF2DF7?style=for-the-badge&logo=instagram&logoColor=ffffff" />
+  </a>
+  <a href="mailto:nayek.sandipan1916@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2DDEFF?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
+  <a href="https://github.com/SandipanNayek1916">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+  </a>
+</p>
+
+## 🧩 Featured Skills (Frontend Side-Quests)
 
 🔮 Building animated, responsive UIs with HTML, CSS, JS & React
 
@@ -95,7 +130,7 @@ $ next_mission
 
 🧪 Experimenting with creative web experiences and micro-interactions
 
-🦖 Mini Game Zone
+## 🦖 Mini Game Zone
 <p align="center">
   <img src="https://github.com/DrDead0/DrDead0/blob/main/img/banner4.gif" width="900" />
 </p>
@@ -103,7 +138,7 @@ $ next_mission
   <img src="https://github.com/user-attachments/assets/07fcbf5b-d808-42c0-957b-ca62bb1f90c7"  width="900" />
 </p>
 >
-👁️ Visitor Count
+## 👁️ Visitor Count
 <p align="left">
   <img src="https://camo.githubusercontent.com/4c56a4d6d08bf2d0433678588a38420a8d57e6c46578659aee6a14830009a848/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d647264656164302e6472646561643026" />
 </p>
