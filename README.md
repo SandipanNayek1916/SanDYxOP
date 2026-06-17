@@ -66,27 +66,27 @@ philosophy: "Build. Break. Glow. Repeat — with self-love."
 <div align="center">
 
   <!-- Streak full width -->
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SandipanNayek1916&theme=neon-dark&ring=FF2DF7&fire=FF2DF7&currStreakLabel=2DDEFF&sideLabels=A5FF2D&dates=FFFFFF&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=SandipanNayek16&theme=neon-dark&ring=FF2DF7&fire=FF2DF7&currStreakLabel=2DDEFF&sideLabels=A5FF2D&dates=FFFFFF&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
   <br/><br/>
 
   <!-- GitHub Profile Summary Cards -->
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandipanNayek1916&theme=radical" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandipanNayek1916&theme=radical&utcOffset=5.5" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandipanNayek1916&theme=radical" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandipanNayek16&theme=radical" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandipanNayek16&theme=radical&utcOffset=5.5" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandipanNayek16&theme=radical" />
 
 </div>
 
 ## 🏆 Neon Trophy Wall
 
 <p align="center">
-  <img src="https://git-jadugar-trophies.vercel.app/api/panels?username=SandipanNayek1916&theme=vampire&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://git-jadugar-trophies.vercel.app/api/panels?username=SandipanNayek16&theme=vampire&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ## 📈 Holographic Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandipanNayek1916&theme=react-dark&bg_color=0D1117&color=2DDEFF&line=FF2DF7&point=A5FF2D&hide_border=true&area=true&custom_title=Sandipan%20Nayek's%20Cyber%20Activity%20Grid" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandipanNayek16&theme=react-dark&bg_color=0D1117&color=2DDEFF&line=FF2DF7&point=A5FF2D&hide_border=true&area=true&custom_title=Sandipan%20Nayek's%20Cyber%20Activity%20Grid" />
 </p>
 
 
@@ -115,7 +115,7 @@ $ next_mission
   <a href="mailto:nayek.sandipan1916@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2DDEFF?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
-  <a href="https://github.com/SandipanNayek1916">
+  <a href="https://github.com/SandipanNayek16">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 </p>
@@ -140,6 +140,6 @@ $ next_mission
 
 ## 👁️ Visitor Count
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SandipanNayek1916&label=Profile%20Views&color=FF2DF7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SandipanNayek16&label=Profile%20Views&color=FF2DF7&style=for-the-badge" />
 </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=A5FF2D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+cyberpunk+space+%F0%9F%94%A5;" /> </p>
